@@ -30,7 +30,7 @@ For the use of kunyu, there can be many application scenarios, such as:
 **Need Python3 or higher support**
 
 ```
-git clone https://github.com/knownsec/Kunyu.git
+git clone https://github.com/trhacknon/Kunyu.git
 cd Kunyu
 pip3 install -r requirements.txt
 
