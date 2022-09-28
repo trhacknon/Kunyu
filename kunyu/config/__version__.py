@@ -14,11 +14,11 @@ __title__ = 'kunyu'
 __license__ = 'GPL-2.0'
 __python_version__ = sys.version.split()[0]
 __platform__ = platform.platform()
-__url__ = "https://github.com/knownsec/Kunyu"
+__url__ = "https://github.com/trhacknon/Kunyu"
 __version__ = '1.7.2'
-__author__ = '风起'
-__Team__ = 'KnownSec 404 Team'
-__author_email__ = 'onlyzaliks@gmail.com'
+__modder__ = 'trhacknon'
+__Team__ = 'Anon Cyber red Team'
+__author_email__ = 'trhacknon@gmail.com'
 __copyright__ = 'Copyright (C) 2021 风起. All Rights Reserved'
 __introduction__ = """
 
@@ -44,7 +44,7 @@ __help__ = """
 | . \ |_| | | | | |_| | |_| |
 |_|\_\__,_|_| |_|\__, |\__,_| -v{version}
                  |___/         
-GitHub: https://github.com/knownsec/Kunyu/
+GitHub: https://github.com/trhacknon/Kunyu/
 kunyu is Cyberspace Search Engine auxiliary tools
 {{datil}}
 """.format(version=__version__)
