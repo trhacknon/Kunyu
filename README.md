@@ -1,6 +1,6 @@
 <h1 align="center">Kunyu(坤舆) - More efficient corporate asset collection</h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/knownsec/Kunyu)](https://github.com/knownsec/Kunyu) [![GitHub issues](https://img.shields.io/github/issues/knownsec/Kunyu)](https://github.com/knownsec/Kunyu/issues) [![GitHub release](https://img.shields.io/github/release/knownsec/Kunyu)](https://github.com/knownsec/Kunyu/releases)![](https://img.shields.io/badge/python-%3E%3D3.2-yellow) [![](https://img.shields.io/badge/author-风起-blueviolet)](https://github.com/wikiZ) [![](https://img.shields.io/badge/KnownSec-404Team-blue)](https://github.com/wikiZ)
+[![GitHub stars](https://img.shields.io/github/stars/trhacknon/Kunyu)](https://github.com/trhacknon/Kunyu) [![GitHub issues](https://img.shields.io/github/issues/trhacknon/Kunyu)](https://github.com/trhacknon/Kunyu/issues) [![GitHub release](https://img.shields.io/github/release/trhacknon/Kunyu)](https://github.com/trhacknon/Kunyu/releases)![](https://img.shields.io/badge/python-%3E%3D3.2-yellow) [![](https://img.shields.io/badge/modder-trhacknon-blueviolet)](https://github.com/wikiZ) [![](https://img.shields.io/badge/trhacknon-anoncyberTeam-blue)](https://github.com/wikiZ)
 
 --------------
 English | [中文文档](./doc/README_CN.md)
